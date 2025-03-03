@@ -7,11 +7,20 @@
         <mxCell id="zXBjQ1SGjJf2PyWNyvKk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXBjQ1SGjJf2PyWNyvKk-1" target="zXBjQ1SGjJf2PyWNyvKk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zXBjQ1SGjJf2PyWNyvKk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXBjQ1SGjJf2PyWNyvKk-1" target="zXBjQ1SGjJf2PyWNyvKk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zXBjQ1SGjJf2PyWNyvKk-1" value="当前记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zXBjQ1SGjJf2PyWNyvKk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zXBjQ1SGjJf2PyWNyvKk-2" target="zXBjQ1SGjJf2PyWNyvKk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zXBjQ1SGjJf2PyWNyvKk-2" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zXBjQ1SGjJf2PyWNyvKk-4" value="答题记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
