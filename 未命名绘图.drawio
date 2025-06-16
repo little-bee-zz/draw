@@ -45,6 +45,9 @@
         <mxCell id="kBfozF5rs_TPLlJqGUb--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kBfozF5rs_TPLlJqGUb--10" target="kBfozF5rs_TPLlJqGUb--14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3AZ2bk7lzvWiGE3icyXY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBfozF5rs_TPLlJqGUb--10" target="3AZ2bk7lzvWiGE3icyXY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kBfozF5rs_TPLlJqGUb--10" value="分组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="290" width="90" height="30" as="geometry" />
         </mxCell>
@@ -70,6 +73,9 @@
         </mxCell>
         <mxCell id="3AZ2bk7lzvWiGE3icyXY-6" value="统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3AZ2bk7lzvWiGE3icyXY-7" value="多级分组" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="290" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
