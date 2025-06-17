@@ -136,7 +136,7 @@
         <mxCell id="TC2-0QoTWvPlI6DKLLCu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TC2-0QoTWvPlI6DKLLCu-3" target="kBfozF5rs_TPLlJqGUb--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TC2-0QoTWvPlI6DKLLCu-3" value="课程SFDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#6A00FF,#99FFFF);fontColor=#ffffff;strokeColor=light-dark(#3700CC,#B3B3B3);gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="TC2-0QoTWvPlI6DKLLCu-3" value="课程SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#6A00FF,#99FFFF);fontColor=#ffffff;strokeColor=light-dark(#3700CC,#B3B3B3);gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="110" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TC2-0QoTWvPlI6DKLLCu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.756;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TC2-0QoTWvPlI6DKLLCu-2" target="TC2-0QoTWvPlI6DKLLCu-3">
